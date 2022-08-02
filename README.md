@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gilarromadhon&label=Profile%20views&color=0e75b6&style=flat" alt="gilarromadhon" /> </p>
 
-- 🌱 I’m currently learning Front End **Framework**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gilarromadhon" alt="gilarromadhon" /></a> </p>
+
+- 🌱 I’m currently learning more about **Front End Web Developer**
 
 - 👨‍💻 All of my projects are available at [gilarromadhon.vercel.app](gilarromadhon.vercel.app)
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **Web Development etc**
 
-- 📫 How to reach me **gilarromadhon@gmail.com**
+- 📫 How to reach me: Email - **gilarromadhon@gmail.com**
+
+- ⚡ Fun fact **I'm young father**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
